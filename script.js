@@ -33,7 +33,7 @@ form.addEventListener("submit", function (e) {
 
 function displayCard(data) {
   document.getElementById('githubDetails').innerHTML = `
-<div class="card" style="width: 30rem;">
+<div class="card">
   <img src="${data.avatar_url}" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">${data.name}</h5>
