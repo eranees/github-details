@@ -27,9 +27,11 @@ This project is a simple web application that allows users to enter a GitHub use
    The user's details will be fetched from the GitHub API and displayed on a card.
    ```
 ## Screenshot
+![Screenshot from 2024-03-24 13-54-21](https://github.com/eranees/github-details/assets/99726488/c75ee34f-7cb6-476f-b31f-42506a1f5c41)
+
 ## Credits
 ```
-Developed by `Anees Akbar` Username: [eranees.]
+Developed by `Anees Akbar` Username: [eranees]
 ```
 
    
